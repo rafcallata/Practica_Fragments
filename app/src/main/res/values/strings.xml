@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Practica Fragments</string>
+    <string name="btn_Opcion1">2001 una odisea en el Espacio</string>
+    <string name="btn_Opcion2">Existenz</string>
+    <string name="btn_voto">Votos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
